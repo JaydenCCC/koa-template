@@ -1,2 +1,2 @@
 # koa-template
-koa-template
+koa-template for mysql
